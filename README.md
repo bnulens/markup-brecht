@@ -38,4 +38,14 @@ Ik drink eigenlijk geen alcohol dus als ik de vraag aanpas naar frisdrank dan is
 2. fanta
 3. sprite
 
+Wendy vindt deze wel lekker:
+1. desperado of cubanisto
+2. jupiler
+3. liefmans on the rocks
+
 Wat vind je het moeilijkst aan Git? (bold)
+**Niet vergeten om eerst PULL te doen en in de juiste repository werken.**
+
+
+Wat is je lievelingsdier?
+Antwoord met een image.
