@@ -22,10 +22,13 @@ What is your favorite colour ?:
 Please answer in 'monospace'
 
 `My favorite colour is Yellow.`
+`Black and Blue.`
 
 ---
 Are you a dog or a cat person? Please answer in bold.
 
 _Blue_
+**crazy cat lady, ahoy!**
 
+What's your favorite beer? (ordered list)
 
