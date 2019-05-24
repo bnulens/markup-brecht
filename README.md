@@ -20,3 +20,8 @@ What is your favorite colour ?:
 8. Pink 
 
 Please answer in 'monospace'
+
+`My favorite colour is Yellow.`
+
+---
+Are you a dog or a cat person? Please answer in bold.
