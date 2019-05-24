@@ -32,3 +32,9 @@ _Blue_
 
 What's your favorite beer? (ordered list)
 
+Ik drink eigenlijk geen alcohol dus als ik de vraag aanpas naar frisdrank dan is mijn antwoord:
+1 cola
+2 fanta
+3 sprite
+
+Wat vind je het moeilijkst aan Git? (bold)
