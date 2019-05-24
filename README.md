@@ -43,9 +43,15 @@ Wendy vindt deze wel lekker:
 2. jupiler
 3. liefmans on the rocks
 
-Wat vind je het moeilijkst aan Git? (bold)
-**Niet vergeten om eerst PULL te doen en in de juiste repository werken.**
+Wat vind je het moeilijkst aan Git? (bold)  
+• **Niet vergeten om eerst PULL te doen en in de juiste repository werken.**
 
+• **Branch HEADS & commits mergen**
 
 Wat is je lievelingsdier?
 Antwoord met een image.
+
+![image](IMG_1191.jpg "sloth")  
+
+
+---  
