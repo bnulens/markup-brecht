@@ -25,3 +25,7 @@ Please answer in 'monospace'
 
 ---
 Are you a dog or a cat person? Please answer in bold.
+
+_Blue_
+
+
